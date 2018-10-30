@@ -24,7 +24,7 @@ Import the SQL schema from [(SQL schema)](sql/team005_p2_schema.sql), and then i
 ### 2.4 Lauch the URL
 Now, we come to the step of lauching [URL](http://localhost:8080/Website-Development-of-an-Auction-System---GTBay-/login.php). From here, you can experience all the functions provided by this website listed below.
 
-## 2 Functions provided by the website
+## 3 Functions provided by the website
 - registration with a unique username
 - login with existing username
 - main menu as an admin to see all the users and items information 
