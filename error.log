@@ -1,0 +1,1508 @@
+[17-Apr-2018 18:29:24 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:29:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:29:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:30:11 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:30:11 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:30:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:31:06 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:31:06 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:31:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:32:52 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:32:52 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:32:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:34:59 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:34:59 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:34:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:38:44 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:38:44 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:38:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:39:04 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:39:04 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:39:04 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:39:04 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:39:23 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:39:23 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:23 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:39:44 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:39:44 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:39:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:40:16 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:40:16 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:40:16 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:40:35 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:40:35 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:40:35 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:42:49 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:42:49 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:42:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:43:14 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 18:43:14 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:43:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:43:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:44:43 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:04 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:46:04 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:04 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:46:04 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:20 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:29 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:32 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:46:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:47:25 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:47:25 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:47:25 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:47:39 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:47:39 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:47:39 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:47:42 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:47:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:47:48 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:47:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:47:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:47:51 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:47:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:47:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:48:11 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:48:11 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:48:14 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:48:14 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:48:43 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 18:48:43 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:43 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:48:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 18:51:27 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[17-Apr-2018 18:51:27 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:51:27 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[17-Apr-2018 18:51:27 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[17-Apr-2018 18:51:27 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:51:27 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant SEPARATOR already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 36
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:36
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant NEWLINE already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 44
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:44
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant REFRESH_TIME already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 45
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:45
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant DB_HOST already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 55
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:55
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant DB_PORT already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 56
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:56
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant DB_USER already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 57
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:57
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant DB_PASS already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 58
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:58
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Notice:  Constant DB_SCHEMA already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 59
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:59
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:52:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 18:56:40 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[17-Apr-2018 18:56:40 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:56:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[17-Apr-2018 18:56:40 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[17-Apr-2018 18:56:40 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 18:56:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[17-Apr-2018 19:00:05 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[17-Apr-2018 19:00:05 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[17-Apr-2018 19:00:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[17-Apr-2018 19:00:05 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant SEPARATOR already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 36
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:36
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant NEWLINE already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 44
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:44
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant REFRESH_TIME already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 45
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:45
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant DB_HOST already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 55
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:55
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant DB_PORT already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 56
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:56
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant DB_USER already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 57
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:57
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant DB_PASS already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 58
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:58
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Notice:  Constant DB_SCHEMA already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 59
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:59
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:26 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[17-Apr-2018 19:00:55 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 19:00:55 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:00:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 19:01:21 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 19:01:21 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:01:21 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 19:02:50 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 19:02:50 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:02:50 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 19:03:06 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 19:03:06 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:03:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 19:44:42 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[17-Apr-2018 19:44:42 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 19:44:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:06:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:07:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:07:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:28 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 20:08:28 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:28 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 20:08:28 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:08:38 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:08:38 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 20:08:47 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:08:47 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 20:08:50 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:08:50 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:50 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 20:08:54 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:08:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 20:08:57 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:08:57 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:08:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:17:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:18:20 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:18:20 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:20 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:46 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[17-Apr-2018 20:18:50 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[17-Apr-2018 20:18:50 America/Los_Angeles] PHP Stack trace:
+[17-Apr-2018 20:18:50 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:06:52 America/Los_Angeles] PHP Notice:  Undefined index: usertype in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php on line 8
+[18-Apr-2018 10:06:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:06:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php:0
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:09:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:10:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:11:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 10:12:32 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 10:12:32 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:12:32 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 10:13:36 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 10:13:36 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:13:36 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 10:14:11 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 10:14:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:14:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 10:14:41 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 10:14:41 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:14:41 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:15:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:15:29 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:15:29 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:15:29 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:15:29 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:15:29 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:15:29 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:16:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:17:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:18:37 America/Los_Angeles] PHP Warning:  A non-numeric value encountered in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:18:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:18:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:19:12 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:19:12 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:19:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:19:12 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:19:12 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:19:12 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:19:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:01 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:09 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:35 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:20:42 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:04 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:11 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:21 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:37 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:21:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:37 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:21:37 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:37 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:49 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:21:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:22:09 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:22:09 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:22:09 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:22:44 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:22:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:22:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:22:47 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:22:47 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:22:47 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:03 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:06 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:25 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:25 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:25 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:28 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:41 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:41 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:41 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:44 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:57 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 10:23:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:23:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:24:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 10:26:30 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[18-Apr-2018 10:26:30 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:26:30 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[18-Apr-2018 10:26:30 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[18-Apr-2018 10:26:30 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:26:30 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant SEPARATOR already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 36
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:36
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant NEWLINE already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 44
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:44
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant REFRESH_TIME already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 45
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:45
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant DB_HOST already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 55
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:55
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant DB_PORT already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 56
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:56
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant DB_USER already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 57
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:57
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant DB_PASS already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 58
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:58
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Notice:  Constant DB_SCHEMA already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 59
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:59
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 10:27:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:15:07 America/Los_Angeles] PHP Notice:  Undefined index: usertype in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php on line 8
+[18-Apr-2018 12:15:07 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:15:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php:0
+[18-Apr-2018 12:15:07 America/Los_Angeles] PHP Notice:  Undefined index: usertype in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php on line 8
+[18-Apr-2018 12:15:07 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:15:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php:0
+[18-Apr-2018 12:30:28 America/Los_Angeles] PHP Notice:  Undefined index: usertype in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php on line 8
+[18-Apr-2018 12:30:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:30:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/main_menu_normal.php:0
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:32:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:33:45 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:34:15 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 12:34:15 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:34:15 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 12:35:07 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 12:35:07 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:35:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 12:35:40 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 12:35:40 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:35:40 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 12:36:09 America/Los_Angeles] PHP Notice:  Undefined index: return_accepted in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php on line 37
+[18-Apr-2018 12:36:09 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:09 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/sell_item.php:0
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:36:50 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:37:54 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:38:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:24 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:39:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:24 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:39:24 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:24 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:27 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:39:58 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:08 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:40:31 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:07 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:14 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:41 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:41:41 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:41 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:41 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:41:41 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:41 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:41:59 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:02 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:42:19 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:42:19 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:19 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:42:52 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:42:52 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:52 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:42:55 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:42:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:42:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:06 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:09 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:09 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:09 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:30 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:30 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:30 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:33 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:33 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:33 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:48 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:48 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:48 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:51 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:51 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:51 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:43:58 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php on line 262
+[18-Apr-2018 12:43:58 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:43:58 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/rate_item.php:0
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:05 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:44:06 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:45:57 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[18-Apr-2018 12:45:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:45:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[18-Apr-2018 12:45:57 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php on line 138
+[18-Apr-2018 12:45:57 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:45:57 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_category_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. mysqli_num_rows() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:42
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant SEPARATOR already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 36
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:36
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant NEWLINE already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 44
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:44
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant REFRESH_TIME already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 45
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:45
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant DB_HOST already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 55
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:55
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant DB_PORT already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 56
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:56
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant DB_USER already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 57
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:57
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant DB_PASS already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 58
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:58
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Notice:  Constant DB_SCHEMA already defined in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php on line 59
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   2. include() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:50
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   3. define() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/lib/common.php:59
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php on line 168
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:46:38 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_user_report.php:0
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Notice:  Undefined variable: firstnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 112
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Notice:  Undefined variable: lastnameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 117
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Notice:  Undefined variable: usernameErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 123
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Notice:  Undefined variable: pass1Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 129
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Notice:  Undefined variable: pass2Err in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php on line 134
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:28 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/registration.php:0
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:33 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:48:44 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:48:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:48:44 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:48:44 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:48:44 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:53 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:49:55 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:50:00 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:50:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:50:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:50:00 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:50:00 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:50:00 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 351
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Notice:  Undefined variable: bidErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 352
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 359
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Notice:  Undefined variable: enteredBidAmount in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php on line 361
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:50:03 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/view_item.php:0
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:51:53 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP Notice:  Undefined variable: keywordErr in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 148
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP Warning:  include(lib/footer.php): failed to open stream: No such file or directory in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'lib/footer.php' for inclusion (include_path='.:/Applications/mampstack-7.1.15-0/php/lib/php:/Applications/mampstack-7.1.15-0/frameworks/smarty/libs') in /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php on line 234
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP Stack trace:
+[18-Apr-2018 12:52:13 America/Los_Angeles] PHP   1. {main}() /Applications/mampstack-7.1.15-0/apache2/htdocs/Phase3/search_item.php:0
